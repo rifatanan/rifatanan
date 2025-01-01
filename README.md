@@ -1,11 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Web Development Project
-🌱 I’m currently learning Typescript
-👯 I’m looking to collaborate IT Company
-💬 Ask me about Web Development
-About me:
-Hello,I am Rifad,Passionate web developer with expertise in creating responsive, user-friendly websites and applications. Skilled in modern frameworks like React and Next.js, with a strong focus on problem solving and delivering efficient, innovative solutions.
+🔭 I’m currently working on Web Development Project<br>🌱 I’m currently learning Typescript<br>👯 I’m looking to collaborate IT Company<br>💬 Ask me about Web Development<br>About me:Hello,I am Rifad,Passionate web developer with expertise in creating responsive, user-friendly websites and applications. Skilled in modern frameworks like React and Next.js, with a strong focus on problem solving and delivering efficient, innovative solutions.
 
 
 ## 🌐 Socials:
